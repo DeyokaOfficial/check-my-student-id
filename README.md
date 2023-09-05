@@ -6,7 +6,7 @@ Check My Student ID
     A basic HTML, CSS, and JS design that should not be done using Table Tags or frameworks, libraries, or ready-made components
 
 ## Host Link 
-//https://deyokaofficial.github.io/
+
 
 ## Technologies Used
 * Frontend: <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
